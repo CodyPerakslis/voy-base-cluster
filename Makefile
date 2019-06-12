@@ -5,10 +5,9 @@ STACK := voy-base-cluster
 
 .PHONY: website
 
-# Push
-# aws ecr get-login --region us-east-2 --no-include-email
-# docker tag e9ae3c220b23 aws_account_id.dkr.ecr.region.amazonaws.com/my-web-app
-# docker push aws_account_id.dkr.ecr.region.amazonaws.com/my-web-app
+run-website:
+	docker build -t voy-php ./website/
+	docker run -p 80:80 voy-php
 
 deploy:
 	aws cloudformation deploy \
@@ -26,7 +25,7 @@ update-website:
 	docker push 076279718063.dkr.ecr.us-east-2.amazonaws.com/voy/website
 
 
-website:
+deploy-website:
 	aws cloudformation deploy \
 		--template-file website/repo.yml \
 		--stack-name "repo-website" \
