@@ -69,7 +69,7 @@
                   <div class="hai-content align-self-center">
                     <h3>Explore your neighborhood</h3>
                     <p>Our app lets your explore through audio tours created by those around you</p>
-                 <</div>
+                 </div>
                </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-12">
