@@ -239,46 +239,46 @@
          </div>
       </div>
       <div class="row text-center home-counter-wrap">
-         <div class="col-lg-3 col-md-3 col-sm-3 col-12" style="visibility:hidden">
+         <div class="col-lg-3 col-md-3 col-sm-3 col-12" >
             <div class="counter">
                <div class="counter-icon">
                   <i class="flaticon-rating"></i>
                </div>
                <div class="counter-content">
-                  <h2 class="timer count-title count-number" data-to="14567" data-speed="3000"></h2>
+                  <h2 class="timer count-title count-number" data-to="20" data-speed="3000"></h2>
                   <p class="count-text ">Positive Reviews</p>
                </div>
             </div>
          </div>
-         <div class="col-lg-3 col-md-3 col-sm-3 col-12" style="visibility:hidden">
+         <div class="col-lg-3 col-md-3 col-sm-3 col-12" >
             <div class="counter">
                <div class="counter-icon">
                   <i class="flaticon-conversation-1"></i>
                </div>
                <div class="counter-content">
-                  <h2 class="timer count-title count-number" data-to="567" data-speed="3000"></h2>
+                  <h2 class="timer count-title count-number" data-to="10" data-speed="3000"></h2>
                   <p class="count-text ">Good Comments</p>
                </div>
             </div>
          </div>
-         <div class="col-lg-3 col-md-3 col-sm-3 col-12" style="visibility:hidden">
+         <div class="col-lg-3 col-md-3 col-sm-3 col-12">
             <div class="counter">
                <div class="counter-icon">
                   <i class="flaticon-email"></i>
                </div>
                <div class="counter-content">
-                  <h2 class="timer count-title count-number" data-to="36778" data-speed="3000"></h2>
+                  <h2 class="timer count-title count-number" data-to="100" data-speed="3000"></h2>
                   <p class="count-text ">App Downloads</p>
                </div>
             </div>
          </div>
-         <div class="col-lg-3 col-md-3 col-sm-3 col-12" style="visibility:hidden">
+         <div class="col-lg-3 col-md-3 col-sm-3 col-12" >
             <div class="counter">
                <div class="counter-icon">
                   <i class="flaticon-trophy"></i>
                </div>
                <div class="counter-content">
-                  <h2 class="timer count-title count-number" data-to="30" data-speed="3000"></h2>
+                  <h2 class="timer count-title count-number" data-to="5" data-speed="3000"></h2>
                   <p class="count-text ">Best Awards</p>
                </div>
             </div>
