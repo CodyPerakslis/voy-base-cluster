@@ -6,9 +6,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<title>Voy</title>
+	<meta name="description" content="Augmented-reality application for audio tour, local neighborhood experience discovery and urban exploration">
+  <meta name="author" content="Voy Team">
+  <meta name="keyword" content="augmented reality, audio, discovery, app, application, design, tour, guide, music, sound, location, GPS, local, geolocation, crowdsource, creator, walk, voy">
+  <title>Voy: Audio Tour for Everyday Places</title>
+	
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
