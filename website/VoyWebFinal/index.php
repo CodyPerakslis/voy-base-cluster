@@ -30,9 +30,18 @@
      <ul>
        <li style="visibility:hidden;height:0;" class="homeitem"><a href="#home">Home</a></li>
        <!-- <li><a href="#download">Download</a></li> -->
-       <li><a href="#howitworks">How it works</a></li>
-       <li><a href="#testimonials">Stories</a></li>
-       <li><a href="#contactus" data-scrolltime="1500">Contact us</a></li>
+       <li><a href="#howitworks" onclick="gtag('event', 'click', {
+          'event_category' : 'nav',
+          'event_label' : 'howitworks'
+        });">How it works</a></li>
+       <li><a href="#testimonials" onclick="gtag('event', 'click', {
+          'event_category' : 'nav',
+          'event_label' : 'stories'
+        });">Stories</a></li>
+       <li><a href="#contactus" data-scrolltime="1500" onclick="gtag('event', 'click', {
+          'event_category' : 'nav',
+          'event_label' : 'contactus'
+        });">Contact us</a></li>
      </ul>
    </nav>
     </div><!--mynavigation-->
@@ -44,8 +53,14 @@
 <!--home-app-play-->
 <section class="home-app-play" id="download", style="visibility:hidden;height:0;">
    <ul class="pd0 mg0 text-center">
-      <li><a href="https://www.thevoyapp.com/" class="slowHover"><i class="fa fa-apple" aria-hidden="true"></i> App Store</a></li>
-      <li><a href="https://www.thevoyapp.com/" class="slowHover"><i class="fa fa-android" aria-hidden="true"></i> Play Store</a></li>
+      <li><a href="https://www.thevoyapp.com/" class="slowHover"  onclick="gtag('event', 'click', {
+              'event_category' : 'download',
+              'event_label' : 'apple store'
+            });"><i class="fa fa-apple" aria-hidden="true"></i> App Store</a></li>
+      <li><a href="https://www.thevoyapp.com/" class="slowHover" onclick="gtag('event', 'click', {
+               'event_category' : 'download',
+               'event_label' : 'google play'
+            });"><i class="fa fa-android" aria-hidden="true"></i> Play Store</a></li>
    </ul>
 </section>
 <!--home-app-play-->

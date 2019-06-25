@@ -3,6 +3,16 @@
 <html lang="en">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121177818-1"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-121177818-1');
+  </script>
+
+	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -10,7 +20,10 @@
   <meta name="author" content="Voy Team">
   <meta name="keyword" content="augmented reality, audio, discovery, app, application, design, tour, guide, music, sound, location, GPS, local, geolocation, crowdsource, creator, walk, voy">
   <title>Voy: Audio Tour for Everyday Places</title>
-	
+
+<!-- Pinterest Verification -->
+	<meta name="p:domain_verify" content="97b3a8c2b4de41ddae231831b6b30c0c"/>
+
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -23,6 +36,7 @@
 	<script src="js/owl.carousel.min.js"></script>
 	<script src="js/jquery.navScroll.js" type="text/javascript"></script>
 	<script src="js/custom.js" type="text/javascript"></script>
+
 
 	<!--Favicons dir-->
 	<link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
