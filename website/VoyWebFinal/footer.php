@@ -28,7 +28,7 @@
      <ul class="mg0 pd0">
        <li><a href="https://www.instagram.com/voy.app/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
         <li><a href="https://www.linkedin.com/company/thevoyapp/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-        <li><a href="https://www.facebook.com/voyapp/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.facebook.com/thevoyapp/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
       </ul>
     </div>
    </div>
