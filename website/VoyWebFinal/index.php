@@ -42,6 +42,7 @@
           'event_category' : 'nav',
           'event_label' : 'contactus'
         });">Contact us</a></li>
+        <li><a href="/blog">Blog</a></li>
      </ul>
    </nav>
     </div><!--mynavigation-->
