@@ -21,5 +21,5 @@ RUN apt-get update && apt-get install -y sendmail
 # RUN php /usr/lib/composer.phar require phpmailer/phpmailer @stable
 
 
-COPY VoyWebFinal /var/www/html
+COPY upload /var/www/html
 RUN a2enmod rewrite
