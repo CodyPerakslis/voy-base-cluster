@@ -17,7 +17,7 @@
               <p>An audio tour for the entire world that anyone can listen and contribute to.</p>
               <ul class="pd0 mg0">
                 <li><a href="https://itunes.apple.com/us/app/kanetus/id1438139566?mt=8"><img src="images/banner-apple-store.png" alt="images" width="180"></a></li>
-                <li><a href="https://play.google.com/store/apps/details?id=com.kanetus.app"><img src="images/banner-google-play.png" alt="images" width="180"></a></li>
+                <!-- <li><a href="https://play.google.com/store/apps/details?id=com.kanetus.app"><img src="images/banner-google-play.png" alt="images" width="180"></a></li> -->
             </ul>
            </div>
          </div>
